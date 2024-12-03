@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @YeuHaiAnhNhatt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hello, I’m @nhuviet
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning Computer Science
+- 📫 tranvietksnb20066@gmail.com
 
 <!---
-YeuHaiAnhNhatt/YeuHaiAnhNhatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ nhuviet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
